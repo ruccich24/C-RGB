@@ -1,0 +1,5 @@
+D:\Мои проекты С#\RGB\RGB\bin\Release\RGB.exe
+D:\Мои проекты С#\RGB\RGB\bin\Release\RGB.dll
+D:\Мои проекты С#\RGB\RGB\bin\Release\RGB.deps.json
+D:\Мои проекты С#\RGB\RGB\bin\Release\RGB.runtimeconfig.json
+D:\Мои проекты С#\RGB\RGB\bin\Release\RGB.pdb
